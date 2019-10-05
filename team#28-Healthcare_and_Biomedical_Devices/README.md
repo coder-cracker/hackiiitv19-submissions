@@ -9,8 +9,8 @@ Healthcare and Biomedical Devices
 
 
 # Team Members
-Abhinav Gupta (Team Leader)
-Jainil Shah
-Utkarsh Tiwari
-Yash Agarwal
+Abhinav Gupta (Team Leader)<br>
+Jainil Shah<br>
+Utkarsh Tiwari<br>
+Yash Agarwal<br>
 Shivanshi Dave
