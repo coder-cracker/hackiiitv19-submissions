@@ -19,7 +19,34 @@ To solve this problem we will be creating a community of people suffering from s
 And this platform will also be making use of left over medicines, health products of cured patients who wish to donate medicines to other patients having same problem. There will be a network of medical stores where one can donate their medicines which are of no use to them. And later these medicines can be provided to the people who need them free of cost.
 
 # Preview of our website
+**Main Page**
 
+![Main Page](images/front_page.JPG "Main Page")
+
+<br>
+
+**SignUp of Patient**
+
+![Patient SignUp](images/patient_signup.JPG "Patient SignUp")
+
+
+<br>
+
+**Doctor's SignUp**
+
+![Doctor's SignUp](images/doctor_signup.JPG "Doctor's SignUp")
+
+<br>
+
+**Causes of a Disease**
+
+![Cancer](images/cancer.JPG "cancer")
+
+<br>
+
+**Consultation with a Doctor**
+
+![Consultaion](images/consult_a_doctor.JPG "Consultaion")
 
 # Team Members
 - Abhinav Gupta (Team Leader)<br>
