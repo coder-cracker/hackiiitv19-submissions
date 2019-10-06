@@ -51,6 +51,19 @@ And this platform will also be making use of left over medicines, health product
 
 ![Consultaion](images/consult_a_doctor.JPG "Consultaion")
 
+
+<br>
+
+**Patients can ask their question**
+
+![question](images/question.JPG "Question")
+
+<br>
+
+**Community Page**
+
+![community](images/community.JPG "community")
+
 # Team Members
 - Abhinav Gupta (Team Leader)<br>
 - Jainil Shah<br>
